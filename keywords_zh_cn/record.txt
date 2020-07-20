@@ -1,0 +1,8 @@
+it:	finished
+diming: 	300
+caijing: 	3300
+law:	2000
+lishimingren:	finished
+medical:	2580
+chengyu: 	4220
+car:	360
